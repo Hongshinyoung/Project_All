@@ -353,6 +353,8 @@
 "Assets/Unity_Project/Scripts/Camera.cs"
 "Assets/Unity_Project/Scripts/CharacterMovement.cs"
 "Assets/Unity_Project/Scripts/Item.cs"
+"Assets/Unity_Project/Scripts/Orbit.cs"
+"Assets/Unity_Project/Scripts/Singleton.cs"
 "Assets/Unity_Project/Scripts/Weapon.cs"
 -langversion:9.0
 
